@@ -1,0 +1,11 @@
+Patient ID,Hospital ID,Region,Day of Week,Season,Time of Day,Urgency Level,Nurse-to-Patient Ratio,Specialist Availability,Facility Size (Beds)
+PAT-10001,HOSP-1,Urban,Monday,Spring,Morning,Medium,4,3,90
+PAT-10002,HOSP-2,Rural,Tuesday,Fall,Afternoon,High,3,5,85
+PAT-10003,HOSP-3,Urban,Wednesday,Summer,Evening,Low,5,2,75
+PAT-10004,HOSP-4,Urban,Thursday,Winter,Night,Medium,4,4,100
+PAT-10005,HOSP-5,Rural,Friday,Spring,Morning,High,3,6,65
+PAT-10006,HOSP-1,Urban,Saturday,Fall,Afternoon,Low,4,3,95
+PAT-10007,HOSP-2,Rural,Sunday,Summer,Evening,Medium,3,4,80
+PAT-10008,HOSP-3,Urban,Monday,Winter,Night,High,5,5,70
+PAT-10009,HOSP-4,Urban,Tuesday,Spring,Morning,Medium,4,3,85
+PAT-10010,HOSP-5,Rural,Wednesday,Fall,Afternoon,Low,3,2,90
