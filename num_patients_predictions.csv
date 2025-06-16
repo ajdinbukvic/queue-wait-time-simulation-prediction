@@ -1,0 +1,141 @@
+Day of Week,Season,Time of Day,num_patients
+Friday,Fall,Afternoon,51
+Friday,Fall,Early Morning,13
+Friday,Fall,Evening,74
+Friday,Fall,Late Morning,25
+Friday,Fall,Night,14
+Friday,Spring,Afternoon,51
+Friday,Spring,Early Morning,25
+Friday,Spring,Evening,56
+Friday,Spring,Late Morning,22
+Friday,Spring,Night,19
+Friday,Summer,Afternoon,56
+Friday,Summer,Early Morning,15
+Friday,Summer,Evening,60
+Friday,Summer,Late Morning,28
+Friday,Summer,Night,9
+Friday,Winter,Afternoon,48
+Friday,Winter,Early Morning,16
+Friday,Winter,Evening,59
+Friday,Winter,Late Morning,23
+Friday,Winter,Night,21
+Monday,Fall,Afternoon,59
+Monday,Fall,Early Morning,21
+Monday,Fall,Evening,62
+Monday,Fall,Late Morning,23
+Monday,Fall,Night,22
+Monday,Spring,Afternoon,48
+Monday,Spring,Early Morning,22
+Monday,Spring,Evening,59
+Monday,Spring,Late Morning,29
+Monday,Spring,Night,23
+Monday,Summer,Afternoon,69
+Monday,Summer,Early Morning,13
+Monday,Summer,Evening,70
+Monday,Summer,Late Morning,35
+Monday,Summer,Night,19
+Monday,Winter,Afternoon,68
+Monday,Winter,Early Morning,18
+Monday,Winter,Evening,54
+Monday,Winter,Late Morning,32
+Monday,Winter,Night,22
+Saturday,Fall,Afternoon,48
+Saturday,Fall,Early Morning,13
+Saturday,Fall,Evening,57
+Saturday,Fall,Late Morning,22
+Saturday,Fall,Night,20
+Saturday,Spring,Afternoon,61
+Saturday,Spring,Early Morning,13
+Saturday,Spring,Evening,59
+Saturday,Spring,Late Morning,28
+Saturday,Spring,Night,21
+Saturday,Summer,Afternoon,64
+Saturday,Summer,Early Morning,15
+Saturday,Summer,Evening,62
+Saturday,Summer,Late Morning,37
+Saturday,Summer,Night,22
+Saturday,Winter,Afternoon,45
+Saturday,Winter,Early Morning,16
+Saturday,Winter,Evening,53
+Saturday,Winter,Late Morning,26
+Saturday,Winter,Night,19
+Sunday,Fall,Afternoon,59
+Sunday,Fall,Early Morning,15
+Sunday,Fall,Evening,73
+Sunday,Fall,Late Morning,24
+Sunday,Fall,Night,21
+Sunday,Spring,Afternoon,48
+Sunday,Spring,Early Morning,15
+Sunday,Spring,Evening,48
+Sunday,Spring,Late Morning,33
+Sunday,Spring,Night,13
+Sunday,Summer,Afternoon,57
+Sunday,Summer,Early Morning,14
+Sunday,Summer,Evening,75
+Sunday,Summer,Late Morning,31
+Sunday,Summer,Night,13
+Sunday,Winter,Afternoon,53
+Sunday,Winter,Early Morning,15
+Sunday,Winter,Evening,65
+Sunday,Winter,Late Morning,30
+Sunday,Winter,Night,23
+Thursday,Fall,Afternoon,40
+Thursday,Fall,Early Morning,11
+Thursday,Fall,Evening,59
+Thursday,Fall,Late Morning,37
+Thursday,Fall,Night,14
+Thursday,Spring,Afternoon,57
+Thursday,Spring,Early Morning,23
+Thursday,Spring,Evening,51
+Thursday,Spring,Late Morning,27
+Thursday,Spring,Night,20
+Thursday,Summer,Afternoon,50
+Thursday,Summer,Early Morning,24
+Thursday,Summer,Evening,68
+Thursday,Summer,Late Morning,20
+Thursday,Summer,Night,24
+Thursday,Winter,Afternoon,47
+Thursday,Winter,Early Morning,15
+Thursday,Winter,Evening,67
+Thursday,Winter,Late Morning,31
+Thursday,Winter,Night,21
+Tuesday,Fall,Afternoon,63
+Tuesday,Fall,Early Morning,22
+Tuesday,Fall,Evening,58
+Tuesday,Fall,Late Morning,28
+Tuesday,Fall,Night,17
+Tuesday,Spring,Afternoon,59
+Tuesday,Spring,Early Morning,12
+Tuesday,Spring,Evening,62
+Tuesday,Spring,Late Morning,34
+Tuesday,Spring,Night,29
+Tuesday,Summer,Afternoon,49
+Tuesday,Summer,Early Morning,22
+Tuesday,Summer,Evening,60
+Tuesday,Summer,Late Morning,24
+Tuesday,Summer,Night,17
+Tuesday,Winter,Afternoon,58
+Tuesday,Winter,Early Morning,17
+Tuesday,Winter,Evening,68
+Tuesday,Winter,Late Morning,23
+Tuesday,Winter,Night,19
+Wednesday,Fall,Afternoon,56
+Wednesday,Fall,Early Morning,15
+Wednesday,Fall,Evening,54
+Wednesday,Fall,Late Morning,20
+Wednesday,Fall,Night,24
+Wednesday,Spring,Afternoon,35
+Wednesday,Spring,Early Morning,15
+Wednesday,Spring,Evening,77
+Wednesday,Spring,Late Morning,22
+Wednesday,Spring,Night,11
+Wednesday,Summer,Afternoon,43
+Wednesday,Summer,Early Morning,21
+Wednesday,Summer,Evening,59
+Wednesday,Summer,Late Morning,20
+Wednesday,Summer,Night,16
+Wednesday,Winter,Afternoon,60
+Wednesday,Winter,Early Morning,17
+Wednesday,Winter,Evening,56
+Wednesday,Winter,Late Morning,36
+Wednesday,Winter,Night,17
